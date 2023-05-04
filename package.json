@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "alchemy-sdk": "^2.8.2",
+    "ethers": "^6.3.0"
+  }
+}
